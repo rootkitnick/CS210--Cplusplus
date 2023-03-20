@@ -10,9 +10,8 @@ Summarize the project and what problem it was solving.
                * Spinach 5
       
    * Option 2: Produce a number representing how many times a specific item was purchased in a given day.
-       User would enter an item name and a C++ function would receive that input and pass it to the appropriate Python function. The Python code then finds the item's
-       frequency in the input file and returns that frequency where it will be displayed in the C++ function
-       Example: Enter item name: Spinach
+      * User would enter an item name and a C++ function would receive that input and pass it to the appropriate Python function. The Python code then finds the item's frequency in the input file and returns that frequency where it will be displayed in the C++ function
+      * Example: Enter item name: Spinach
                 Spinach occurred 5 times.
       
    * Option 3: Produce a text-based histogram listing all items purchased in a given day, along with a representation of the number of times each item was purchased.
