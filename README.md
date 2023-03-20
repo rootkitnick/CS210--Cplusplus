@@ -1,12 +1,13 @@
 # CS210--Cplusplus
 
 * Summarize the project and what problem it was solving.
-/nThis project is designed to combine the knowledge gained over the entirety of this course and utilize both Python and C++ programming languages. Specifically, this project      began with starter code in both C++ and Python, and I was asked to create several functions that would pass information back and forth between C++ and Python. I created a          looping main menu function that would display all available options to the user, receive and validate user input, and then take the appropriate action. The four different        options are described below:
+* 
+This project began with starter code in both C++ and Python and I was asked to create several functions that would pass information back and forth between C++ and Python. I created a looping main menu function that would display all available options to the user, receive and validate user input, and then take the appropriate action. The four different options are described below:
       
    * Option 1: Produce a list of all items purchased in a given day along with the number of times each item was purchased.
-       C++ code was written to call a Python code that would calculate the frequency of each item and display the item name and its frequency.
-       Example: Apples 4
-                Spinach 5
+      * C++ code was written to call a Python code that would calculate the frequency of each item and display the item name and its frequency.
+      * Example: Apples 4
+               * Spinach 5
       
    * Option 2: Produce a number representing how many times a specific item was purchased in a given day.
        User would enter an item name and a C++ function would receive that input and pass it to the appropriate Python function. The Python code then finds the item's
